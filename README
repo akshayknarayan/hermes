@@ -1,0 +1,8 @@
+Author: Akshay Narayan
+Email: akshay.narayan@berkeley.edu
+
+To install Hermes double click the install.command file.
+To uninstall, remove the python files from /opt/
+Afterward, to run Hermes double click the hermes.command file.
+
+Alternately, you can use ./install.command and ./hermes.command to run the files.
