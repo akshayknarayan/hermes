@@ -6,3 +6,7 @@ To uninstall, remove the python files from /opt/
 Afterward, to run Hermes double click the hermes.command file.
 
 Alternately, you can use ./install.command and ./hermes.command to run the files.
+hermes
+======
+
+A command line RSS reader, written in python.
